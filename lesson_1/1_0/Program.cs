@@ -1,4 +1,4 @@
 ﻿
 int a = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine("a * a");
+Console.WriteLine(a * a);
